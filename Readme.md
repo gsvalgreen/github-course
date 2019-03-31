@@ -9,5 +9,5 @@ Testando o Git Diff.
 Some extra things
 
 Some more
-ahsufhasu
+
 Testando o Stash
