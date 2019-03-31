@@ -9,3 +9,5 @@ Testando o Git Diff.
 Some extra things
 
 Some more
+
+Testando o Stash
